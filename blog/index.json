@@ -1,0 +1,16 @@
+{
+  "2020": {
+    "08": {
+      "04":{
+        "title":"Post de pruebas",
+        "tags": ["prueba", "academia","lab"]
+      }
+    },
+    "09":{
+      "01": {
+        "title":"Segundo post de pruebas",
+        "tags": ["septiembre", "probando", "el blog"]
+      }
+    }
+  }
+}
